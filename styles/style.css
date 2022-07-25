@@ -1,0 +1,33 @@
+.panda-height {
+  margin-bottom: 100px;
+}
+.panda-bg-primary {
+  background-color: #fceae8;
+}
+.icon {
+  width: 20px;
+  height: 20px;
+  background-color: black;
+  border-radius: 50%;
+}
+.panda-price {
+  color: #ff136f;
+  font-weight: 500;
+}
+.panda-btn-primary {
+  background-image: linear-gradient(to bottom, #ff589b 0%, #ff136f 100%);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+}
+.panda-catagories {
+  width: 100px;
+}
+.panda-bg-bag {
+  background-color: purple;
+}
+.panda-bg-shoe {
+  background-color: blue;
+}
